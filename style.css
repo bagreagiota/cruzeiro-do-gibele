@@ -38,7 +38,7 @@ text-decoration: blink;
 /* Define as características da TAG ancor */
 a{
     text-decoration: blink;     /* tira o sublinhado do link */
-    color: orangered;  
+    color: rgb(	0,255,127);  
     align-content: center;          /* Cor do texto */
 }
 
