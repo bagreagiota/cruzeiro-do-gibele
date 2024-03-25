@@ -7,6 +7,7 @@ body, ul, li, p{
     text-decoration: blink;
     
 }
+
 a{
 text-decoration: blink;
 color: white;
@@ -38,7 +39,7 @@ text-decoration: blink;
 /* Define as características da TAG ancor */
 a{
     text-decoration: blink;     /* tira o sublinhado do link */
-    color: rgb(	0,255,127);  
+    color: yellow ;  
     align-content: center;          /* Cor do texto */
 }
 
@@ -54,5 +55,12 @@ text-decoration: blink;
 
 
 body{
-    background-color: rgb(	231 198 2);
+    background-color: gray;
+    align-items: center;
+}
+
+div {
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(to right, red, black);
 }
