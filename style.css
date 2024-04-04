@@ -64,3 +64,45 @@ div {
     text-align: center;
     background-image: linear-gradient(to right, red, black);
 }
+
+@font-face{
+    font-family: neue;
+    src: url('edosz.ttf') format('truetype');
+  }
+
+.comic-neue-light {
+    font-family: "Comic Neue", cursive;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .comic-neue-regular {
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .comic-neue-bold {
+    font-family: "Comic Neue", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .comic-neue-light-italic {
+    font-family: "Comic Neue", cursive;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .comic-neue-regular-italic {
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .comic-neue-bold-italic {
+    font-family: "Comic Neue", cursive;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
